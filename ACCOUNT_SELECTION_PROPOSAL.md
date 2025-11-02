@@ -318,15 +318,6 @@ strategy:
 
 ---
 
-## ❓ Questions?
-
-Feel free to ask:
-- "Can I add accounts later?"
-- "What if I want different TP/SL for each account?"
-- "Can I run multiple accounts simultaneously?"
-- "How do I know which account is active?"
-
----
 
 **Waiting for your decision! Once you choose, I'll implement it right away.** 🚀
 
